@@ -1,6 +1,6 @@
 # Collective classification in labels
 
-The object of task 1 is to propose a collective classification algorithm dealing with label classification
+The object of the project is to propose a collective classification algorithm dealing with label classification
 nodes in the shared dataset.
 The data set is e-mail communication in a production company and data on who reports to whom (organizational structure).
 The proposed collective classification algorithm should decide which nodes to discover and how to propagate knowledge about
